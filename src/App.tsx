@@ -1,10 +1,10 @@
 import './App.css';
-import MouseHoverComponent from './components/MouseHoverComponent';
+import NewComponent from './components/NewComponent/NewComponent';
 
 function App() {
   return (
     <div className="App">
-     <MouseHoverComponent />
+     <NewComponent/>
     </div>
   );
 }
